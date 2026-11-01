@@ -27,4 +27,8 @@ flutter run
 **Assignment:** 02  
 **CLO:** 2  
 **Student:** Hassan Zia  
-**Registration Number:** Add your registration number before submission.
+**Registration Number:** 245234
+
+## Report
+
+The assignment report is included in the repository as [REPORT.md](REPORT.md).
